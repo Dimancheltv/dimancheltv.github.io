@@ -1,6 +1,6 @@
 {
-    "name": "telegram_web",
-    "short_name": "telegram_web",
+    "name": "rms",
+    "short_name": "rms",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

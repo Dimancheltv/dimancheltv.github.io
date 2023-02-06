@@ -1,0 +1,128 @@
+tags: 
+  - 
+    id: 745
+    x: 1.0
+    y: 2.0
+    angle: -1.57079632679
+    payload_id: 745
+    is_interjacent: false
+  - 
+    id: 746
+    x: 3.0
+    y: 4.0
+    angle: -1.57079632679
+    payload_id: 746
+    is_interjacent: false
+  - 
+    id: 747
+    x: 2.35
+    y: 0.0
+    angle: -1.57079632679
+    payload_id: 747
+    is_interjacent: false
+  - 
+    id: 748
+    x: 8.4
+    y: 2.0
+    angle: -1.57079632679
+    payload_id: 748
+    is_interjacent: false
+  - 
+    id: 749
+    x: 1.5
+    y: 2.5
+    angle: 0.0
+    payload_id: 0
+    is_interjacent: false
+  - 
+    id: 750
+    x: 1.5
+    y: 3.0
+    angle: 0.0
+    payload_id: 0
+    is_interjacent: false
+  - 
+    id: 751
+    x: 1.5
+    y: 3.5
+    angle: 0.0
+    payload_id: 0
+    is_interjacent: false
+  - 
+    id: 752
+    x: 1.5
+    y: 4.0
+    angle: 0.0
+    payload_id: 0
+    is_interjacent: false
+  - 
+    id: 753
+    x: 2.0
+    y: 2.5
+    angle: 0.0
+    payload_id: 0
+    is_interjacent: false
+  - 
+    id: 754
+    x: 2.0
+    y: 3.0
+    angle: 0.0
+    payload_id: 0
+    is_interjacent: false
+  - 
+    id: 756
+    x: 2.0
+    y: 4.0
+    angle: 0.0
+    payload_id: 0
+    is_interjacent: false
+  - 
+    id: 757
+    x: 2.5
+    y: 2.5
+    angle: 0.0
+    payload_id: 0
+    is_interjacent: false
+  - 
+    id: 758
+    x: 2.5
+    y: 3.0
+    angle: 0.0
+    payload_id: 0
+    is_interjacent: false
+  - 
+    id: 760
+    x: 2.5
+    y: 4.0
+    angle: 0.0
+    payload_id: 0
+    is_interjacent: false
+  - 
+    id: 761
+    x: 3.0
+    y: 2.5
+    angle: 0.0
+    payload_id: 0
+    is_interjacent: false
+  - 
+    id: 762
+    x: 3.0
+    y: 3.0
+    angle: 0.0
+    payload_id: 0
+    is_interjacent: false
+  - 
+    id: 763
+    x: 3.0
+    y: 3.5
+    angle: 0.0
+    payload_id: 0
+    is_interjacent: false
+  - 
+    id: 764
+    x: 3.0
+    y: 4.0
+    angle: 0.0
+    payload_id: 0
+    is_interjacent: false
+

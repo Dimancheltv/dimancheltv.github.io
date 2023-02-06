@@ -1,0 +1,37 @@
+tags: 
+  - 
+    id: 745
+    x: 1.0
+    y: 2.0
+    angle: -1.57079632679
+    payload_id: 745
+    is_interjacent: false
+  - 
+    id: 746
+    x: 3.0
+    y: 4.0
+    angle: -1.57079632679
+    payload_id: 746
+    is_interjacent: false
+  - 
+    id: 747
+    x: 2.35
+    y: 0.0
+    angle: -1.57079632679
+    payload_id: 747
+    is_interjacent: false
+  - 
+    id: 748
+    x: 8.4
+    y: 2.0
+    angle: -1.57079632679
+    payload_id: 748
+    is_interjacent: false
+  - 
+    id: 749
+    x: 2.0
+    y: 3.0
+    angle: 0.0
+    payload_id: 0
+    is_interjacent: false
+

@@ -1,0 +1,40 @@
+version: 3
+
+tags:
+  - id: 5
+    x: 0.75
+    y: 18
+    angle: -1.57079632679
+    payload_id: 5
+    is_interjacent: false
+  - id: 6
+    x: 58.75
+    y: 18
+    angle: -1.57079632679
+    payload_id: 6
+    is_interjacent: false
+  - id: 19
+    x: 0.5
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 19
+    is_interjacent: false
+  - id: 20
+    x: 0.75
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 20
+    is_interjacent: false
+  - id: 21
+    x: 1.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 21
+    is_interjacent: false
+  - id: 22
+    x: 1.5
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 22
+    is_interjacent: false
+
