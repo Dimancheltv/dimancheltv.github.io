@@ -1,0 +1,17 @@
+tags:
+  -
+    id: 1
+    x: 0
+    y: 0
+    angle: 0
+    payload_id: 1
+    is_interjacent: false
+
+locations:
+  -
+    id: 1
+    x: 0
+    y: 0
+
+targets: []
+move_graphs: []

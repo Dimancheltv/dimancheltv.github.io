@@ -1,0 +1,2828 @@
+version: 3
+
+tags:
+  - id: 5
+    x: 0.75
+    y: 18
+    angle: -1.57079632679
+    payload_id: 5
+    is_interjacent: false
+  - id: 6
+    x: 58.75
+    y: 18
+    angle: -1.57079632679
+    payload_id: 6
+    is_interjacent: false
+  - id: 19
+    x: 0.5
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 19
+    is_interjacent: false
+  - id: 20
+    x: 0.75
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 20
+    is_interjacent: false
+  - id: 21
+    x: 1.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 21
+    is_interjacent: false
+  - id: 22
+    x: 1.5
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 22
+    is_interjacent: false
+  - id: 23
+    x: 2
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 23
+    is_interjacent: false
+  - id: 24
+    x: 2.5
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 24
+    is_interjacent: false
+  - id: 25
+    x: 3.1
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 25
+    is_interjacent: false
+  - id: 26
+    x: 3.75
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 26
+    is_interjacent: false
+  - id: 27
+    x: 4.25
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 27
+    is_interjacent: false
+  - id: 28
+    x: 4.75
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 28
+    is_interjacent: false
+  - id: 29
+    x: 5.25
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 29
+    is_interjacent: false
+  - id: 30
+    x: 5.75
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 30
+    is_interjacent: false
+  - id: 31
+    x: 6.25
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 31
+    is_interjacent: false
+  - id: 32
+    x: 6.75
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 32
+    is_interjacent: false
+  - id: 33
+    x: 7.25
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 33
+    is_interjacent: false
+  - id: 34
+    x: 7.75
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 34
+    is_interjacent: false
+  - id: 35
+    x: 8.25
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 35
+    is_interjacent: false
+  - id: 36
+    x: 8.75
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 36
+    is_interjacent: false
+  - id: 37
+    x: 9.25
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 37
+    is_interjacent: false
+  - id: 38
+    x: 9.75
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 38
+    is_interjacent: false
+  - id: 847
+    x: 10.25
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 847
+    is_interjacent: false
+  - id: 1414
+    x: 10.85
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 1414
+    is_interjacent: false
+  - id: 1415
+    x: 11.45
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 1415
+    is_interjacent: false
+  - id: 42
+    x: 11.95
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 42
+    is_interjacent: false
+  - id: 43
+    x: 12.45
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 43
+    is_interjacent: false
+  - id: 44
+    x: 13.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 44
+    is_interjacent: false
+  - id: 45
+    x: 13.85
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 45
+    is_interjacent: false
+  - id: 46
+    x: 14.35
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 46
+    is_interjacent: false
+  - id: 47
+    x: 14.85
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 47
+    is_interjacent: false
+  - id: 48
+    x: 15.55
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 48
+    is_interjacent: false
+  - id: 49
+    x: 16.25
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 49
+    is_interjacent: false
+  - id: 50
+    x: 16.75
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 50
+    is_interjacent: false
+  - id: 51
+    x: 17.25
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 51
+    is_interjacent: false
+  - id: 52
+    x: 17.95
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 52
+    is_interjacent: false
+  - id: 53
+    x: 18.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 53
+    is_interjacent: false
+  - id: 54
+    x: 19.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 54
+    is_interjacent: false
+  - id: 55
+    x: 19.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 55
+    is_interjacent: false
+  - id: 56
+    x: 20.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 56
+    is_interjacent: false
+  - id: 57
+    x: 20.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 57
+    is_interjacent: false
+  - id: 58
+    x: 21.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 58
+    is_interjacent: false
+  - id: 59
+    x: 21.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 59
+    is_interjacent: false
+  - id: 60
+    x: 22.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 60
+    is_interjacent: false
+  - id: 61
+    x: 22.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 61
+    is_interjacent: false
+  - id: 62
+    x: 23.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 62
+    is_interjacent: false
+  - id: 63
+    x: 23.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 63
+    is_interjacent: false
+  - id: 64
+    x: 24.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 64
+    is_interjacent: false
+  - id: 65
+    x: 24.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 65
+    is_interjacent: false
+  - id: 66
+    x: 25.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 66
+    is_interjacent: false
+  - id: 67
+    x: 25.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 67
+    is_interjacent: false
+  - id: 68
+    x: 26.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 68
+    is_interjacent: false
+  - id: 69
+    x: 26.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 69
+    is_interjacent: false
+  - id: 70
+    x: 27.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 70
+    is_interjacent: false
+  - id: 71
+    x: 27.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 71
+    is_interjacent: false
+  - id: 72
+    x: 28.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 72
+    is_interjacent: false
+  - id: 73
+    x: 28.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 73
+    is_interjacent: false
+  - id: 74
+    x: 29.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 74
+    is_interjacent: false
+  - id: 75
+    x: 29.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 75
+    is_interjacent: false
+  - id: 76
+    x: 30.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 76
+    is_interjacent: false
+  - id: 77
+    x: 30.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 77
+    is_interjacent: false
+  - id: 78
+    x: 31.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 78
+    is_interjacent: false
+  - id: 79
+    x: 31.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 79
+    is_interjacent: false
+  - id: 80
+    x: 32.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 80
+    is_interjacent: false
+  - id: 81
+    x: 32.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 81
+    is_interjacent: false
+  - id: 82
+    x: 33.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 82
+    is_interjacent: false
+  - id: 83
+    x: 33.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 83
+    is_interjacent: false
+  - id: 84
+    x: 34.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 84
+    is_interjacent: false
+  - id: 85
+    x: 34.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 85
+    is_interjacent: false
+  - id: 86
+    x: 35.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 86
+    is_interjacent: false
+  - id: 87
+    x: 35.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 87
+    is_interjacent: false
+  - id: 88
+    x: 36.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 88
+    is_interjacent: false
+  - id: 89
+    x: 36.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 89
+    is_interjacent: false
+  - id: 90
+    x: 37.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 90
+    is_interjacent: false
+  - id: 91
+    x: 37.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 91
+    is_interjacent: false
+  - id: 92
+    x: 38.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 92
+    is_interjacent: false
+  - id: 93
+    x: 38.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 93
+    is_interjacent: false
+  - id: 94
+    x: 39.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 94
+    is_interjacent: false
+  - id: 95
+    x: 39.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 95
+    is_interjacent: false
+  - id: 96
+    x: 40.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 96
+    is_interjacent: false
+  - id: 97
+    x: 40.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 97
+    is_interjacent: false
+  - id: 98
+    x: 41.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 98
+    is_interjacent: false
+  - id: 99
+    x: 41.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 99
+    is_interjacent: false
+  - id: 100
+    x: 42.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 100
+    is_interjacent: false
+  - id: 101
+    x: 42.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 101
+    is_interjacent: false
+  - id: 102
+    x: 43.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 102
+    is_interjacent: false
+  - id: 1169
+    x: 43.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 1169
+    is_interjacent: false
+  - id: 1171
+    x: 44.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 1171
+    is_interjacent: false
+  - id: 105
+    x: 44.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 105
+    is_interjacent: false
+  - id: 106
+    x: 45.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 106
+    is_interjacent: false
+  - id: 107
+    x: 45.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 107
+    is_interjacent: false
+  - id: 108
+    x: 46.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 108
+    is_interjacent: false
+  - id: 109
+    x: 46.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 109
+    is_interjacent: false
+  - id: 110
+    x: 47.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 110
+    is_interjacent: false
+  - id: 111
+    x: 47.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 111
+    is_interjacent: false
+  - id: 112
+    x: 48.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 112
+    is_interjacent: false
+  - id: 113
+    x: 48.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 113
+    is_interjacent: false
+  - id: 114
+    x: 49.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 114
+    is_interjacent: false
+  - id: 115
+    x: 49.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 115
+    is_interjacent: false
+  - id: 116
+    x: 50.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 116
+    is_interjacent: false
+  - id: 117
+    x: 50.75
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 117
+    is_interjacent: false
+  - id: 118
+    x: 51.25
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 118
+    is_interjacent: false
+  - id: 119
+    x: 51.75
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 119
+    is_interjacent: false
+  - id: 120
+    x: 52.25
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 120
+    is_interjacent: false
+  - id: 121
+    x: 52.75
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 121
+    is_interjacent: false
+  - id: 122
+    x: 53.25
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 122
+    is_interjacent: false
+  - id: 123
+    x: 53.75
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 123
+    is_interjacent: false
+  - id: 124
+    x: 54.25
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 124
+    is_interjacent: false
+  - id: 125
+    x: 54.75
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 125
+    is_interjacent: false
+  - id: 126
+    x: 55.25
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 126
+    is_interjacent: false
+  - id: 127
+    x: 55.75
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 127
+    is_interjacent: false
+  - id: 128
+    x: 56.25
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 128
+    is_interjacent: false
+  - id: 129
+    x: 56.75
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 129
+    is_interjacent: false
+  - id: 130
+    x: 57.25
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 130
+    is_interjacent: false
+  - id: 131
+    x: 57.75
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 131
+    is_interjacent: false
+  - id: 132
+    x: 58.25
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 132
+    is_interjacent: false
+  - id: 133
+    x: 58.75
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 133
+    is_interjacent: false
+  - id: 1392
+    x: 59.25
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 1392
+    is_interjacent: false
+  - id: 1393
+    x: 59.75
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 1393
+    is_interjacent: false
+  - id: 1394
+    x: 60.25
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 1394
+    is_interjacent: false
+  - id: 1395
+    x: 60.75
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 1395
+    is_interjacent: false
+  - id: 1396
+    x: 61.25
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 1396
+    is_interjacent: false
+  - id: 1397
+    x: 61.75
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 1397
+    is_interjacent: false
+  - id: 1398
+    x: 62.25
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 1398
+    is_interjacent: false
+  - id: 1399
+    x: 62.75
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 1399
+    is_interjacent: false
+  - id: 997
+    x: 63.25
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 997
+    is_interjacent: false
+  - id: 998
+    x: 63.65
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 998
+    is_interjacent: false
+  - id: 999
+    x: 64.15
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 999
+    is_interjacent: false
+  - id: 1404
+    x: 64.55
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 1404
+    is_interjacent: false
+  - id: 148
+    x: 0.75
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 148
+    is_interjacent: false
+  - id: 149
+    x: 1.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 149
+    is_interjacent: false
+  - id: 150
+    x: 1.5
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 150
+    is_interjacent: false
+  - id: 151
+    x: 2
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 151
+    is_interjacent: false
+  - id: 152
+    x: 2.5
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 152
+    is_interjacent: false
+  - id: 153
+    x: 3.1
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 153
+    is_interjacent: false
+  - id: 154
+    x: 3.75
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 154
+    is_interjacent: false
+  - id: 155
+    x: 4.25
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 155
+    is_interjacent: false
+  - id: 156
+    x: 4.75
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 156
+    is_interjacent: false
+  - id: 157
+    x: 5.25
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 157
+    is_interjacent: false
+  - id: 158
+    x: 5.75
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 158
+    is_interjacent: false
+  - id: 1158
+    x: 6.25
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 1158
+    is_interjacent: false
+  - id: 160
+    x: 6.75
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 160
+    is_interjacent: false
+  - id: 161
+    x: 7.25
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 161
+    is_interjacent: false
+  - id: 162
+    x: 7.75
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 162
+    is_interjacent: false
+  - id: 163
+    x: 8.25
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 163
+    is_interjacent: false
+  - id: 164
+    x: 8.75
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 164
+    is_interjacent: false
+  - id: 165
+    x: 9.25
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 165
+    is_interjacent: false
+  - id: 166
+    x: 9.75
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 166
+    is_interjacent: false
+  - id: 167
+    x: 10.25
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 167
+    is_interjacent: false
+  - id: 168
+    x: 10.85
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 168
+    is_interjacent: false
+  - id: 169
+    x: 11.45
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 169
+    is_interjacent: false
+  - id: 170
+    x: 11.95
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 170
+    is_interjacent: false
+  - id: 171
+    x: 12.45
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 171
+    is_interjacent: false
+  - id: 172
+    x: 13.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 172
+    is_interjacent: false
+  - id: 173
+    x: 13.85
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 173
+    is_interjacent: false
+  - id: 174
+    x: 14.35
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 174
+    is_interjacent: false
+  - id: 175
+    x: 14.85
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 175
+    is_interjacent: false
+  - id: 176
+    x: 15.55
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 176
+    is_interjacent: false
+  - id: 177
+    x: 16.25
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 177
+    is_interjacent: false
+  - id: 178
+    x: 16.75
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 178
+    is_interjacent: false
+  - id: 179
+    x: 17.25
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 179
+    is_interjacent: false
+  - id: 180
+    x: 17.95
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 180
+    is_interjacent: false
+  - id: 181
+    x: 18.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 181
+    is_interjacent: false
+  - id: 182
+    x: 19.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 182
+    is_interjacent: false
+  - id: 183
+    x: 19.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 183
+    is_interjacent: false
+  - id: 184
+    x: 20.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 184
+    is_interjacent: false
+  - id: 185
+    x: 20.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 185
+    is_interjacent: false
+  - id: 186
+    x: 21.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 186
+    is_interjacent: false
+  - id: 187
+    x: 21.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 187
+    is_interjacent: false
+  - id: 188
+    x: 22.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 188
+    is_interjacent: false
+  - id: 189
+    x: 22.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 189
+    is_interjacent: false
+  - id: 190
+    x: 23.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 190
+    is_interjacent: false
+  - id: 191
+    x: 23.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 191
+    is_interjacent: false
+  - id: 192
+    x: 24.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 192
+    is_interjacent: false
+  - id: 193
+    x: 24.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 193
+    is_interjacent: false
+  - id: 194
+    x: 25.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 194
+    is_interjacent: false
+  - id: 195
+    x: 25.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 195
+    is_interjacent: false
+  - id: 196
+    x: 26.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 196
+    is_interjacent: false
+  - id: 197
+    x: 26.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 197
+    is_interjacent: false
+  - id: 1170
+    x: 27.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 1170
+    is_interjacent: false
+  - id: 199
+    x: 27.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 199
+    is_interjacent: false
+  - id: 200
+    x: 28.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 200
+    is_interjacent: false
+  - id: 201
+    x: 28.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 201
+    is_interjacent: false
+  - id: 202
+    x: 29.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 202
+    is_interjacent: false
+  - id: 203
+    x: 29.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 203
+    is_interjacent: false
+  - id: 204
+    x: 30.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 204
+    is_interjacent: false
+  - id: 205
+    x: 30.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 205
+    is_interjacent: false
+  - id: 206
+    x: 31.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 206
+    is_interjacent: false
+  - id: 207
+    x: 31.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 207
+    is_interjacent: false
+  - id: 208
+    x: 32.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 208
+    is_interjacent: false
+  - id: 209
+    x: 32.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 209
+    is_interjacent: false
+  - id: 210
+    x: 33.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 210
+    is_interjacent: false
+  - id: 211
+    x: 33.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 211
+    is_interjacent: false
+  - id: 212
+    x: 34.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 212
+    is_interjacent: false
+  - id: 213
+    x: 34.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 213
+    is_interjacent: false
+  - id: 214
+    x: 35.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 214
+    is_interjacent: false
+  - id: 215
+    x: 35.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 215
+    is_interjacent: false
+  - id: 216
+    x: 36.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 216
+    is_interjacent: false
+  - id: 217
+    x: 36.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 217
+    is_interjacent: false
+  - id: 218
+    x: 37.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 218
+    is_interjacent: false
+  - id: 219
+    x: 37.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 219
+    is_interjacent: false
+  - id: 220
+    x: 38.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 220
+    is_interjacent: false
+  - id: 221
+    x: 38.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 221
+    is_interjacent: false
+  - id: 222
+    x: 39.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 222
+    is_interjacent: false
+  - id: 223
+    x: 39.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 223
+    is_interjacent: false
+  - id: 224
+    x: 40.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 224
+    is_interjacent: false
+  - id: 225
+    x: 40.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 225
+    is_interjacent: false
+  - id: 226
+    x: 41.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 226
+    is_interjacent: false
+  - id: 227
+    x: 41.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 227
+    is_interjacent: false
+  - id: 228
+    x: 42.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 228
+    is_interjacent: false
+  - id: 1172
+    x: 42.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 1172
+    is_interjacent: false
+  - id: 230
+    x: 43.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 230
+    is_interjacent: false
+  - id: 231
+    x: 43.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 231
+    is_interjacent: false
+  - id: 232
+    x: 44.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 232
+    is_interjacent: false
+  - id: 233
+    x: 44.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 233
+    is_interjacent: false
+  - id: 234
+    x: 45.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 234
+    is_interjacent: false
+  - id: 235
+    x: 45.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 235
+    is_interjacent: false
+  - id: 236
+    x: 46.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 236
+    is_interjacent: false
+  - id: 237
+    x: 46.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 237
+    is_interjacent: false
+  - id: 238
+    x: 47.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 238
+    is_interjacent: false
+  - id: 239
+    x: 47.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 239
+    is_interjacent: false
+  - id: 240
+    x: 48.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 240
+    is_interjacent: false
+  - id: 241
+    x: 48.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 241
+    is_interjacent: false
+  - id: 242
+    x: 49.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 242
+    is_interjacent: false
+  - id: 243
+    x: 49.65
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 243
+    is_interjacent: false
+  - id: 244
+    x: 50.15
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 244
+    is_interjacent: false
+  - id: 245
+    x: 50.75
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 245
+    is_interjacent: false
+  - id: 246
+    x: 51.25
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 246
+    is_interjacent: false
+  - id: 247
+    x: 51.75
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 247
+    is_interjacent: false
+  - id: 248
+    x: 52.25
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 248
+    is_interjacent: false
+  - id: 249
+    x: 52.75
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 249
+    is_interjacent: false
+  - id: 250
+    x: 53.25
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 250
+    is_interjacent: false
+  - id: 251
+    x: 53.75
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 251
+    is_interjacent: false
+  - id: 252
+    x: 54.25
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 252
+    is_interjacent: false
+  - id: 253
+    x: 54.75
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 253
+    is_interjacent: false
+  - id: 254
+    x: 55.25
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 254
+    is_interjacent: false
+  - id: 255
+    x: 55.75
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 255
+    is_interjacent: false
+  - id: 256
+    x: 56.25
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 256
+    is_interjacent: false
+  - id: 257
+    x: 56.75
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 257
+    is_interjacent: false
+  - id: 258
+    x: 57.25
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 258
+    is_interjacent: false
+  - id: 259
+    x: 57.75
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 259
+    is_interjacent: false
+  - id: 260
+    x: 58.25
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 260
+    is_interjacent: false
+  - id: 261
+    x: 58.75
+    y: 18.5
+    angle: -1.57079632679
+    payload_id: 261
+    is_interjacent: false
+  - id: 1262
+    x: 63.25
+    y: 16.75
+    angle: -1.57079632679
+    payload_id: 1262
+    is_interjacent: false
+  - id: 263
+    x: 11.95
+    y: 16.45
+    angle: -1.57079632679
+    payload_id: 263
+    is_interjacent: false
+  - id: 264
+    x: 14.35
+    y: 16.45
+    angle: -1.57079632679
+    payload_id: 264
+    is_interjacent: false
+  - id: 265
+    x: 16.75
+    y: 16.45
+    angle: -1.57079632679
+    payload_id: 265
+    is_interjacent: false
+  - id: 266
+    x: 19.15
+    y: 16.45
+    angle: -1.57079632679
+    payload_id: 266
+    is_interjacent: false
+  - id: 1267
+    x: 63.25
+    y: 16.25
+    angle: -1.57079632679
+    payload_id: 1267
+    is_interjacent: false
+  - id: 280
+    x: 17.95
+    y: 16.025
+    angle: -1.57079632679
+    payload_id: 280
+    is_interjacent: false
+  - id: 281
+    x: 18.35
+    y: 16.025
+    angle: -1.57079632679
+    payload_id: 281
+    is_interjacent: false
+  - id: 1407
+    x: 19.15
+    y: 16.025
+    angle: -1.57079632679
+    payload_id: 1407
+    is_interjacent: false
+  # - id: 283
+  #   x: 19.95
+  #   y: 16.025
+  #   angle: -1.57079632679
+  #   payload_id: 283
+  #   is_interjacent: false
+  # - id: 284
+  #   x: 20.35
+  #   y: 16.025
+  #   angle: -1.57079632679
+  #   payload_id: 284
+  #   is_interjacent: false
+  - id: 1285
+    x: 63.25
+    y: 15.75
+    angle: -1.57079632679
+    payload_id: 1285
+    is_interjacent: false
+  - id: 1286
+    x: 63.65
+    y: 15.75
+    angle: -1.57079632679
+    payload_id: 1286
+    is_interjacent: false
+  - id: 1287
+    x: 64.15
+    y: 15.75
+    angle: -1.57079632679
+    payload_id: 1287
+    is_interjacent: false
+  - id: 1288
+    x: 64.55
+    y: 15.75
+    angle: -1.57079632679
+    payload_id: 1288
+    is_interjacent: false
+  - id: 1408
+    x: 19.15
+    y: 15.55
+    angle: -1.57079632679
+    payload_id: 1408
+    is_interjacent: false
+  - id: 290
+    x: 17.95
+    y: 15.075
+    angle: -1.57079632679
+    payload_id: 290
+    is_interjacent: false
+  - id: 291
+    x: 18.35
+    y: 15.075
+    angle: -1.57079632679
+    payload_id: 291
+    is_interjacent: false
+  - id: 292
+    x: 19.15
+    y: 15.075
+    angle: -1.57079632679
+    payload_id: 292
+    is_interjacent: false
+  - id: 293
+    x: 19.95
+    y: 15.075
+    angle: -1.57079632679
+    payload_id: 293
+    is_interjacent: false
+  - id: 294
+    x: 20.35
+    y: 15.075
+    angle: -1.57079632679
+    payload_id: 294
+    is_interjacent: false
+  - id: 313
+    x: 19.15
+    y: 14.6
+    angle: -1.57079632679
+    payload_id: 313
+    is_interjacent: false
+  - id: 305
+    x: 17.95
+    y: 14.125
+    angle: -1.57079632679
+    payload_id: 305
+    is_interjacent: false
+  - id: 306
+    x: 18.35
+    y: 14.125
+    angle: -1.57079632679
+    payload_id: 306
+    is_interjacent: false
+  - id: 307
+    x: 19.15
+    y: 14.125
+    angle: -1.57079632679
+    payload_id: 307
+    is_interjacent: false
+  # - id: 308
+  #   x: 19.95
+  #   y: 14.125
+  #   angle: -1.57079632679
+  #   payload_id: 308
+  #   is_interjacent: false
+  # - id: 309
+  #   x: 20.35
+  #   y: 14.125
+  #   angle: -1.57079632679
+  #   payload_id: 309
+  #   is_interjacent: false
+  - id: 334
+    x: 19.15
+    y: 13.65
+    angle: -1.57079632679
+    payload_id: 334
+    is_interjacent: false
+  - id: 347
+    x: 17.95
+    y: 13.175
+    angle: -1.57079632679
+    payload_id: 347
+    is_interjacent: false
+  - id: 348
+    x: 18.35
+    y: 13.175
+    angle: -1.57079632679
+    payload_id: 348
+    is_interjacent: false
+  - id: 349
+    x: 19.15
+    y: 13.175
+    angle: -1.57079632679
+    payload_id: 349
+    is_interjacent: false
+  # - id: 350
+  #   x: 19.95
+  #   y: 13.175
+  #   angle: -1.57079632679
+  #   payload_id: 350
+  #   is_interjacent: false
+  # - id: 351
+  #   x: 20.35
+  #   y: 13.175
+  #   angle: -1.57079632679
+  #   payload_id: 351
+  #   is_interjacent: false
+  - id: 355
+    x: 19.15
+    y: 12.7
+    angle: -1.57079632679
+    payload_id: 355
+    is_interjacent: false
+  - id: 368
+    x: 17.95
+    y: 12.225
+    angle: -1.57079632679
+    payload_id: 368
+    is_interjacent: false
+  - id: 369
+    x: 18.35
+    y: 12.225
+    angle: -1.57079632679
+    payload_id: 369
+    is_interjacent: false
+  - id: 370
+    x: 19.15
+    y: 12.225
+    angle: -1.57079632679
+    payload_id: 370
+    is_interjacent: false
+  - id: 371
+    x: 19.95
+    y: 12.225
+    angle: -1.57079632679
+    payload_id: 371
+    is_interjacent: false
+  - id: 372
+    x: 20.35
+    y: 12.225
+    angle: -1.57079632679
+    payload_id: 372
+    is_interjacent: false
+  - id: 378
+    x: 19.15
+    y: 11.75
+    angle: -1.57079632679
+    payload_id: 378
+    is_interjacent: false
+  - id: 389
+    x: 17.95
+    y: 11.275
+    angle: -1.57079632679
+    payload_id: 389
+    is_interjacent: false
+  - id: 390
+    x: 18.35
+    y: 11.275
+    angle: -1.57079632679
+    payload_id: 390
+    is_interjacent: false
+  - id: 391
+    x: 19.15
+    y: 11.275
+    angle: -1.57079632679
+    payload_id: 391
+    is_interjacent: false
+  - id: 392
+    x: 19.95
+    y: 11.275
+    angle: -1.57079632679
+    payload_id: 392
+    is_interjacent: false
+  - id: 393
+    x: 20.35
+    y: 11.275
+    angle: -1.57079632679
+    payload_id: 393
+    is_interjacent: false
+  - id: 397
+    x: 19.15
+    y: 10.8
+    angle: -1.57079632679
+    payload_id: 397
+    is_interjacent: false
+  - id: 410
+    x: 17.95
+    y: 10.325
+    angle: -1.57079632679
+    payload_id: 410
+    is_interjacent: false
+  - id: 1165
+    x: 17.95
+    y: 10.400
+    angle: -1.57079632679
+    payload_id: 1165
+    is_interjacent: true
+  - id: 1167
+    x: 17.95
+    y: 10.250
+    angle: -1.57079632679
+    payload_id: 1167
+    is_interjacent: true  
+  - id: 1166
+    x: 18.025
+    y: 10.325
+    angle: -1.57079632679
+    payload_id: 1166
+    is_interjacent: true
+  - id: 1168
+    x: 17.875
+    y: 10.325
+    angle: -1.57079632679
+    payload_id: 1168
+    is_interjacent: true
+    #####
+  - id: 411
+    x: 18.35
+    y: 10.325
+    angle: -1.57079632679
+    payload_id: 411
+    is_interjacent: false
+  - id: 412
+    x: 19.15
+    y: 10.325
+    angle: -1.57079632679
+    payload_id: 412
+    is_interjacent: false
+  - id: 413
+    x: 19.95
+    y: 10.325
+    angle: -1.57079632679
+    payload_id: 413
+    is_interjacent: false
+  - id: 414
+    x: 20.35
+    y: 10.325
+    angle: -1.57079632679
+    payload_id: 414
+    is_interjacent: false
+  - id: 420
+    x: 19.15
+    y: 9.85
+    angle: -1.57079632679
+    payload_id: 420
+    is_interjacent: false
+  - id: 432
+    x: 19.15
+    y: 9.375
+    angle: -1.57079632679
+    payload_id: 432
+    is_interjacent: false
+  - id: 433
+    x: 19.95
+    y: 9.375
+    angle: -1.57079632679
+    payload_id: 433
+    is_interjacent: false
+  - id: 434
+    x: 20.35
+    y: 9.375
+    angle: -1.57079632679
+    payload_id: 434
+    is_interjacent: false
+  - id: 440
+    x: 19.15
+    y: 8.9
+    angle: -1.57079632679
+    payload_id: 440
+    is_interjacent: false
+  - id: 994
+    payload_id: 994
+    x: 17.95
+    y: 8.25
+    angle: -1.57079632679
+    is_interjacent: false
+  - id: 995
+    payload_id: 995
+    x: 18.35
+    y: 8.25
+    angle: -1.57079632679
+    is_interjacent: false
+  - id: 453
+    x: 19.15
+    y: 8.25
+    angle: -1.57079632679
+    payload_id: 453
+    is_interjacent: false
+  - id: 982
+    x: 19.225
+    y: 8.25
+    angle: -1.57079632679
+    payload_id: 982
+    is_interjacent: true
+  - id: 980
+    x: 19.075
+    y: 8.25
+    angle: -1.57079632679
+    payload_id: 980
+    is_interjacent: true 
+  - id: 981
+    x: 19.15
+    y: 8.325
+    angle: -1.57079632679
+    payload_id: 981
+    is_interjacent: true
+  - id: 983
+    x: 19.15
+    y: 8.175
+    angle: -1.57079632679
+    payload_id: 983
+    is_interjacent: true
+  - id: 1164
+    x: 19.15
+    y: 7.6
+    angle: -1.57079632679
+    payload_id: 1164
+    is_interjacent: false
+#  - id: 459
+#    x: 19.15
+#    y: 7.3
+#    angle: -1.57079632679
+#    payload_id: 459
+#    is_interjacent: false
+  - id: 1163
+    x: 19.15
+    y: 6.95
+    angle: -1.57079632679
+    payload_id: 1163
+    is_interjacent: false
+  - id: 952
+    x: 19.225
+    y: 6.95
+    angle: -1.57079632679
+    payload_id: 952
+    is_interjacent: true
+  - id: 950
+    x: 19.075
+    y: 6.95
+    angle: -1.57079632679
+    payload_id: 950
+    is_interjacent: true
+  - id: 951
+    x: 19.15
+    y: 7.025
+    angle: -1.57079632679
+    payload_id: 951
+    is_interjacent: true
+  - id: 953
+    x: 19.15
+    y: 6.875
+    angle: -1.57079632679
+    payload_id: 953
+    is_interjacent: true
+  - id: 842
+    x: 17.95
+    y: 16.1
+    angle: -1.57079632679
+    payload_id: 842
+    is_interjacent: true
+  - id: 852
+    x: 17.875
+    y: 16.025
+    angle: -1.57079632679
+    payload_id: 852
+    is_interjacent: true
+  - id: 841
+    x: 18.025
+    y: 16.025
+    angle: -1.57079632679
+    payload_id: 841
+    is_interjacent: true
+  - id: 858
+    x: 17.95
+    y: 15.95
+    angle: -1.57079632679
+    payload_id: 858
+    is_interjacent: true
+  # - id: 479
+  #   x: 20.35
+  #   y: 16.1
+  #   angle: -1.57079632679
+  #   payload_id: 479
+  #   is_interjacent: true
+  # - id: 480
+  #   x: 20.275
+  #   y: 16.025
+  #   angle: -1.57079632679
+  #   payload_id: 480
+  #   is_interjacent: true
+  # - id: 481
+  #   x: 20.425
+  #   y: 16.025
+  #   angle: -1.57079632679
+  #   payload_id: 481
+  #   is_interjacent: true
+  # - id: 482
+  #   x: 20.35
+  #   y: 15.95
+  #   angle: -1.57079632679
+  #   payload_id: 482
+  #   is_interjacent: true
+  - id: 495
+    x: 17.95
+    y: 15.15
+    angle: -1.57079632679
+    payload_id: 495
+    is_interjacent: true
+  - id: 496
+    x: 17.875
+    y: 15.075
+    angle: -1.57079632679
+    payload_id: 496
+    is_interjacent: true
+  - id: 497
+    x: 18.025
+    y: 15.075
+    angle: -1.57079632679
+    payload_id: 497
+    is_interjacent: true
+  - id: 498
+    x: 17.95
+    y: 15
+    angle: -1.57079632679
+    payload_id: 498
+    is_interjacent: true
+  - id: 499
+    x: 20.35
+    y: 15.15
+    angle: -1.57079632679
+    payload_id: 499
+    is_interjacent: true
+  - id: 500
+    x: 20.275
+    y: 15.075
+    angle: -1.57079632679
+    payload_id: 500
+    is_interjacent: true
+  - id: 501
+    x: 20.425
+    y: 15.075
+    angle: -1.57079632679
+    payload_id: 501
+    is_interjacent: true
+  - id: 502
+    x: 20.35
+    y: 15
+    angle: -1.57079632679
+    payload_id: 502
+    is_interjacent: true
+  - id: 515
+    x: 17.95
+    y: 14.2
+    angle: -1.57079632679
+    payload_id: 515
+    is_interjacent: true
+  - id: 516
+    x: 17.875
+    y: 14.125
+    angle: -1.57079632679
+    payload_id: 516
+    is_interjacent: true
+  - id: 517
+    x: 18.025
+    y: 14.125
+    angle: -1.57079632679
+    payload_id: 517
+    is_interjacent: true
+  - id: 518
+    x: 17.95
+    y: 14.05
+    angle: -1.57079632679
+    payload_id: 518
+    is_interjacent: true
+  # - id: 519
+  #   x: 20.35
+  #   y: 14.2
+  #   angle: -1.57079632679
+  #   payload_id: 519
+  #   is_interjacent: true
+  # - id: 520
+  #   x: 20.275
+  #   y: 14.125
+  #   angle: -1.57079632679
+  #   payload_id: 520
+  #   is_interjacent: true
+  # - id: 521
+  #   x: 20.425
+  #   y: 14.125
+  #   angle: -1.57079632679
+  #   payload_id: 521
+  #   is_interjacent: true
+  # - id: 522
+  #   x: 20.35
+  #   y: 14.05
+  #   angle: -1.57079632679
+  #   payload_id: 522
+  #   is_interjacent: true
+  - id: 535
+    x: 17.95
+    y: 13.25
+    angle: -1.57079632679
+    payload_id: 535
+    is_interjacent: true
+  - id: 1411
+    x: 17.875
+    y: 13.175
+    angle: -1.57079632679
+    payload_id: 1411
+    is_interjacent: true
+  - id: 537
+    x: 18.025
+    y: 13.175
+    angle: -1.57079632679
+    payload_id: 537
+    is_interjacent: true
+  - id: 1406
+    x: 17.95
+    y: 13.1
+    angle: -1.57079632679
+    payload_id: 1406
+    is_interjacent: true
+  # - id: 539
+  #   x: 20.35
+  #   y: 13.25
+  #   angle: -1.57079632679
+  #   payload_id: 539
+  #   is_interjacent: true
+  # - id: 540
+  #   x: 20.275
+  #   y: 13.175
+  #   angle: -1.57079632679
+  #   payload_id: 540
+  #   is_interjacent: true
+  # - id: 541
+  #   x: 20.425
+  #   y: 13.175
+  #   angle: -1.57079632679
+  #   payload_id: 541
+  #   is_interjacent: true
+  # - id: 542
+  #   x: 20.35
+  #   y: 13.1
+  #   angle: -1.57079632679
+  #   payload_id: 542
+  #   is_interjacent: true
+  - id: 555
+    x: 17.95
+    y: 12.3
+    angle: -1.57079632679
+    payload_id: 555
+    is_interjacent: true
+  - id: 556
+    x: 17.875
+    y: 12.225
+    angle: -1.57079632679
+    payload_id: 556
+    is_interjacent: true
+  - id: 557
+    x: 18.025
+    y: 12.225
+    angle: -1.57079632679
+    payload_id: 557
+    is_interjacent: true
+  - id: 558
+    x: 17.95
+    y: 12.15
+    angle: -1.57079632679
+    payload_id: 558
+    is_interjacent: true
+  - id: 559
+    x: 20.35
+    y: 12.3
+    angle: -1.57079632679
+    payload_id: 559
+    is_interjacent: true
+  - id: 560
+    x: 20.275
+    y: 12.225
+    angle: -1.57079632679
+    payload_id: 560
+    is_interjacent: true
+  - id: 561
+    x: 20.425
+    y: 12.225
+    angle: -1.57079632679
+    payload_id: 561
+    is_interjacent: true
+  - id: 1410
+    x: 20.35
+    y: 12.15
+    angle: -1.57079632679
+    payload_id: 1410
+    is_interjacent: true
+  - id: 575
+    x: 17.95
+    y: 11.35
+    angle: -1.57079632679
+    payload_id: 575
+    is_interjacent: true
+  - id: 576
+    x: 17.875
+    y: 11.275
+    angle: -1.57079632679
+    payload_id: 576
+    is_interjacent: true
+  - id: 577
+    x: 18.025
+    y: 11.275
+    angle: -1.57079632679
+    payload_id: 577
+    is_interjacent: true
+  - id: 578
+    x: 17.95
+    y: 11.2
+    angle: -1.57079632679
+    payload_id: 578
+    is_interjacent: true
+  - id: 579
+    x: 20.35
+    y: 11.35
+    angle: -1.57079632679
+    payload_id: 579
+    is_interjacent: true
+  - id: 580
+    x: 20.275
+    y: 11.275
+    angle: -1.57079632679
+    payload_id: 580
+    is_interjacent: true
+  - id: 581
+    x: 20.425
+    y: 11.275
+    angle: -1.57079632679
+    payload_id: 581
+    is_interjacent: true
+  - id: 582
+    x: 20.35
+    y: 11.2
+    angle: -1.57079632679
+    payload_id: 582
+    is_interjacent: true
+  - id: 587
+    x: 20.35
+    y: 10.4
+    angle: -1.57079632679
+    payload_id: 587
+    is_interjacent: true
+  - id: 588
+    x: 20.275
+    y: 10.325
+    angle: -1.57079632679
+    payload_id: 588
+    is_interjacent: true
+  - id: 589
+    x: 20.425
+    y: 10.325
+    angle: -1.57079632679
+    payload_id: 589
+    is_interjacent: true
+  - id: 590
+    x: 20.35
+    y: 10.25
+    angle: -1.57079632679
+    payload_id: 590
+    is_interjacent: true
+  - id: 595
+    x: 20.35
+    y: 9.45
+    angle: -1.57079632679
+    payload_id: 595
+    is_interjacent: true
+  - id: 596
+    x: 20.275
+    y: 9.375
+    angle: -1.57079632679
+    payload_id: 596
+    is_interjacent: true
+  - id: 597
+    x: 20.425
+    y: 9.375
+    angle: -1.57079632679
+    payload_id: 597
+    is_interjacent: true
+  - id: 598
+    x: 20.35
+    y: 9.3
+    angle: -1.57079632679
+    payload_id: 598
+    is_interjacent: true
+  - id: 1004
+    x: 64.55
+    y: 17.575
+    angle: -1.57079632679
+    payload_id: 1004
+    is_interjacent: true
+  - id: 1005
+    x: 64.475
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 1005
+    is_interjacent: true
+  - id: 1006
+    x: 64.625
+    y: 17.5
+    angle: -1.57079632679
+    payload_id: 1006
+    is_interjacent: true
+  - id: 1007
+    x: 64.55
+    y: 17.425
+    angle: -1.57079632679
+    payload_id: 1007
+    is_interjacent: true
+  - id: 603
+    x: 64.55
+    y: 15.825
+    angle: -1.57079632679
+    payload_id: 603
+    is_interjacent: true
+  - id: 604
+    x: 64.475
+    y: 15.75
+    angle: -1.57079632679
+    payload_id: 604
+    is_interjacent: true
+  - id: 605
+    x: 64.625
+    y: 15.75
+    angle: -1.57079632679
+    payload_id: 605
+    is_interjacent: true
+  - id: 606
+    x: 64.55
+    y: 15.675
+    angle: -1.57079632679
+    payload_id: 606
+    is_interjacent: true
+  - id: 1400
+    x: 11.95
+    y: 17
+    angle: -1.57079632679
+    payload_id: 1400
+    is_interjacent: false
+  - id: 1401
+    x: 14.35
+    y: 17
+    angle: -1.57079632679
+    payload_id: 1401
+    is_interjacent: false
+  - id: 1402
+    x: 16.75
+    y: 17
+    angle: -1.57079632679
+    payload_id: 1402
+    is_interjacent: false
+  - id: 1403
+    x: 19.15
+    y: 17
+    angle: -1.57079632679
+    payload_id: 1403
+    is_interjacent: false
+  - id: 1380
+    x: 0.5
+    y: 20.035
+    angle: -1.57079632679
+    payload_id: 1380
+    is_interjacent: true
+  - id: 1381
+    x: 1.5
+    y: 20.035
+    angle: -1.57079632679
+    payload_id: 1381
+    is_interjacent: true
+  - id: 1382
+    x: 2.5
+    y: 20.035
+    angle: -1.57079632679
+    payload_id: 1382
+    is_interjacent: true
+  - id: 1383
+    x: 0.5
+    y: 19.625
+    angle: -1.57079632679
+    payload_id: 1383
+    is_interjacent: false #true
+  - id: 1384
+    x: 1.5
+    y: 19.625
+    angle: -1.57079632679
+    payload_id: 1384
+    is_interjacent: false #true
+  - id: 1385
+    x: 2.5
+    y: 19.625
+    angle: -1.57079632679
+    payload_id: 1385
+    is_interjacent: false #true
+  - id: 1386
+    x: 0.5
+    y: 19.175
+    angle: -1.57079632679
+    payload_id: 1386
+    is_interjacent: false
+  - id: 1387
+    x: 1.5
+    y: 19.175
+    angle: -1.57079632679
+    payload_id: 1387
+    is_interjacent: false
+  - id: 1388
+    x: 2.5
+    y: 19.175
+    angle: -1.57079632679
+    payload_id: 1388
+    is_interjacent: false
+  - id: 278
+    x: 16.75
+    y: 16.025
+    angle: -1.57079632679
+    payload_id: 278
+    is_interjacent: false
+  - id: 279
+    x: 17.55
+    y: 16.025
+    angle: -1.57079632679
+    payload_id: 279
+    is_interjacent: false
+  - id: 0
+    x: 16.75
+    y: 15.55
+    angle: -1.57079632679
+    payload_id: 0
+    is_interjacent: false
+  - id: 303
+    x: 16.75
+    y: 15.075
+    angle: -1.57079632679
+    payload_id: 303
+    is_interjacent: false
+  - id: 304
+    x: 17.55
+    y: 15.075
+    angle: -1.57079632679
+    payload_id: 304
+    is_interjacent: false
+  - id: 312
+    x: 16.75
+    y: 14.6
+    angle: -1.57079632679
+    payload_id: 312
+    is_interjacent: false
+  - id: 324
+    x: 16.75
+    y: 14.125
+    angle: -1.57079632679
+    payload_id: 324
+    is_interjacent: false
+  - id: 325
+    x: 17.55
+    y: 14.125
+    angle: -1.57079632679
+    payload_id: 325
+    is_interjacent: false
+  - id: 333
+    x: 16.75
+    y: 13.65
+    angle: -1.57079632679
+    payload_id: 333
+    is_interjacent: false
+  - id: 345
+    x: 16.75
+    y: 13.175
+    angle: -1.57079632679
+    payload_id: 345
+    is_interjacent: false
+  - id: 346
+    x: 17.55
+    y: 13.175
+    angle: -1.57079632679
+    payload_id: 346
+    is_interjacent: false
+  - id: 354
+    x: 16.75
+    y: 12.7
+    angle: -1.57079632679
+    payload_id: 354
+    is_interjacent: false
+  - id: 366
+    x: 16.75
+    y: 12.225
+    angle: -1.57079632679
+    payload_id: 366
+    is_interjacent: false
+  - id: 367
+    x: 17.55
+    y: 12.225
+    angle: -1.57079632679
+    payload_id: 367
+    is_interjacent: false
+  - id: 375
+    x: 16.75
+    y: 11.75
+    angle: -1.57079632679
+    payload_id: 375
+    is_interjacent: false
+  - id: 387
+    x: 16.75
+    y: 11.275
+    angle: -1.57079632679
+    payload_id: 387
+    is_interjacent: false
+  - id: 386
+    x: 17.55
+    y: 11.275
+    angle: -1.57079632679
+    payload_id: 386
+    is_interjacent: false
+  - id: 396
+    x: 16.75
+    y: 10.8
+    angle: -1.57079632679
+    payload_id: 396
+    is_interjacent: false
+  - id: 408
+    x: 16.75
+    y: 10.325
+    angle: -1.57079632679
+    payload_id: 408
+    is_interjacent: false
+  - id: 409
+    x: 17.55
+    y: 10.325
+    angle: -1.57079632679
+    payload_id: 409
+    is_interjacent: false
+  - id: 419
+    x: 16.75
+    y: 9.85
+    angle: -1.57079632679
+    payload_id: 419
+    is_interjacent: false
+  - id: 431
+    x: 16.75
+    y: 9.375
+    angle: -1.57079632679
+    payload_id: 431
+    is_interjacent: false
+  - id: 991
+    x: 16.75
+    y: 8.9
+    angle: -1.57079632679
+    payload_id: 991
+    is_interjacent: false
+  - id: 992
+    payload_id: 992
+    x: 16.75
+    y: 8.25
+    angle: -1.57079632679
+    is_interjacent: false
+  - id: 978
+    payload_id: 978
+    x: 16.825
+    y: 8.25
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 976
+    payload_id: 976
+    x: 16.675
+    y: 8.25
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 979
+    payload_id: 979
+    x: 16.75
+    y: 8.150
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 977
+    payload_id: 977
+    x: 16.75
+    y: 8.325
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 993
+    payload_id: 993
+    x: 17.55
+    y: 8.25
+    angle: -1.57079632679
+    is_interjacent: false
+
+
+  - id: 936
+    payload_id: 936
+    x: 19.95
+    y: 16.45
+    angle: -1.57079632679
+    is_interjacent: false
+  - id: 937
+    payload_id: 937
+    x: 20.35
+    y: 16.45
+    angle: -1.57079632679
+    is_interjacent: false
+  - id: 938
+    payload_id: 938
+    x: 20.35
+    y: 16.525
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 941
+    payload_id: 941
+    x: 20.275
+    y: 16.45
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 939
+    payload_id: 939
+    x: 20.425
+    y: 16.45
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 940
+    payload_id: 940
+    x: 20.35
+    y: 16.375
+    angle: -1.57079632679
+    is_interjacent: true
+
+
+  - id: 942
+    payload_id: 942
+    x: 19.95
+    y: 13.65
+    angle: -1.57079632679
+    is_interjacent: false
+  - id: 943
+    payload_id: 943
+    x: 20.35
+    y: 13.65
+    angle: -1.57079632679
+    is_interjacent: false
+  - id: 944
+    payload_id: 944
+    x: 20.35
+    y: 13.725
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 947
+    payload_id: 947
+    x: 20.275
+    y: 13.65
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 945
+    payload_id: 945
+    x: 20.425
+    y: 13.65
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 946
+    payload_id: 946
+    x: 20.35
+    y: 13.575
+    angle: -1.57079632679
+    is_interjacent: true
+
+  - id: 959
+    payload_id: 959
+    x: 19.95
+    y: 8.25
+    angle: -1.57079632679
+    is_interjacent: false
+  - id: 954
+    payload_id: 954
+    x: 20.35
+    y: 8.25
+    angle: -1.57079632679
+    is_interjacent: false
+  - id: 955
+    payload_id: 955
+    x: 20.35
+    y: 8.325
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 958
+    payload_id: 958
+    x: 20.275
+    y: 8.25
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 956
+    payload_id: 956
+    x: 20.425
+    y: 8.25
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 957
+    payload_id: 957
+    x: 20.35
+    y: 8.175
+    angle: -1.57079632679
+    is_interjacent: true
+
+  - id: 986
+    payload_id: 986
+    x: 15.30
+    y: 8.25
+    angle: -1.57079632679
+    is_interjacent: false
+  - id: 974
+    payload_id: 974
+    x: 15.375
+    y: 8.25
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 972
+    payload_id: 972
+    x: 15.225
+    y: 8.25
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 973
+    payload_id: 973
+    x: 15.30
+    y: 8.325
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 975
+    payload_id: 975
+    x: 15.30
+    y: 8.175
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 985
+    payload_id: 985
+    x: 15.80
+    y: 8.25
+    angle: -1.57079632679
+    is_interjacent: false
+  - id: 984
+    payload_id: 984
+    x: 16.30
+    y: 8.25
+    angle: -1.57079632679
+    is_interjacent: false
+
+
+# NEW TAGS for V7
+
+  - id: 1152
+    payload_id: 1152
+    x: 15.30
+    y: 7.6
+    angle: -1.57079632679
+    is_interjacent: false
+  - id: 1153
+    payload_id: 1153
+    x: 15.30
+    y: 6.95
+    angle: -1.57079632679
+    is_interjacent: false
+  - id: 970
+    payload_id: 970
+    x: 15.375
+    y: 6.95
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 968
+    payload_id: 968
+    x: 15.225
+    y: 6.95
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 969
+    payload_id: 969
+    x: 15.30
+    y: 7.025
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 971
+    payload_id: 971
+    x: 15.30
+    y: 6.875
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 1154
+    payload_id: 1154
+    x: 15.80
+    y: 6.95
+    angle: -1.57079632679
+    is_interjacent: false
+  - id: 1155
+    payload_id: 1155
+    x: 16.30
+    y: 6.95
+    angle: -1.57079632679
+    is_interjacent: false
+  - id: 1156
+    payload_id: 1156
+    x: 16.75
+    y: 6.95
+    angle: -1.57079632679
+    is_interjacent: false
+  - id: 966
+    payload_id: 966
+    x: 16.825
+    y: 6.95
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 964
+    payload_id: 964
+    x: 16.675
+    y: 6.95
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 965
+    payload_id: 965
+    x: 16.75
+    y: 7.025
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 967
+    payload_id: 967
+    x: 16.75
+    y: 6.875
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 1157
+    payload_id: 1157
+    x: 16.75
+    y: 7.6
+    angle: -1.57079632679
+    is_interjacent: false
+  - id: 1160
+    payload_id: 1160
+    x: 17.95
+    y: 7.6
+    angle: -1.57079632679
+    is_interjacent: false
+  - id: 1161
+    payload_id: 1161
+    x: 17.95
+    y: 6.95
+    angle: -1.57079632679
+    is_interjacent: false
+  - id: 962
+    payload_id: 962
+    x: 18.025
+    y: 6.95
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 960
+    payload_id: 960
+    x: 17.875
+    y: 6.95
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 961
+    payload_id: 961
+    x: 17.95
+    y: 7.025
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 963
+    payload_id: 963
+    x: 17.95
+    y: 6.875
+    angle: -1.57079632679
+    is_interjacent: true
+  - id: 1162
+    payload_id: 1162
+    x: 18.35
+    y: 6.95
+    angle: -1.57079632679
+    is_interjacent: false

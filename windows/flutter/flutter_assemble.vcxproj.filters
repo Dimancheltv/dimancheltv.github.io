@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Dell\Desktop\DEVELOPMENT\rms-map-editor\build\windows\CMakeFiles\6010cb3d1efe7173c64515c839ee9018\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Dell\Desktop\DEVELOPMENT\rms-map-editor\build\windows\CMakeFiles\4688c2dbddfcc9e90ec4a7ab180e0124\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Dell\Desktop\DEVELOPMENT\rms-map-editor\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Dell\Desktop\DEVELOPMENT\rms-map-editor\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E77DF2F1-1922-375F-B4C6-EDA3239D00DD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

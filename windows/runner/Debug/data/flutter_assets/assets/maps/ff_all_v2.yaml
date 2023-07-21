@@ -1,0 +1,802 @@
+version: 3
+
+tags:
+#1st row - road
+  - id: 744
+    x: 0.25
+    y: 0.0
+    angle: -1.57079632679
+    payload_id: 744
+    is_interjacent: false
+  - id: 745
+    x: 0.65
+    y: 0.0
+    angle: -1.57079632679
+    payload_id: 745
+    is_interjacent: false
+  - id: 746
+    x: 1.3
+    y: 0.0
+    angle: -1.57079632679
+    payload_id: 746
+    is_interjacent: false
+  - id: 747
+    x: 2.35
+    y: 0.0
+    angle: -1.57079632679
+    payload_id: 747
+    is_interjacent: false
+  - id: 748
+    x: 3.4
+    y: 0.0
+    angle: -1.57079632679
+    payload_id: 748
+    is_interjacent: false
+
+#2nd row
+  - id: 749
+    x: 0.25
+    y: 1.1
+    angle: -1.57079632679
+    payload_id: 749
+    is_interjacent: false
+  - id: 750
+    x: 0.65
+    y: 1.1
+    angle: -1.57079632679
+    payload_id: 750
+    is_interjacent: false
+  - id: 751
+    x: 1.3
+    y: 1.1
+    angle: -1.57079632679
+    payload_id: 751
+    is_interjacent: false
+  - id: 752
+    x: 1.95 
+    y: 1.1
+    angle: -1.57079632679
+    payload_id: 752
+    is_interjacent: false
+  - id: 753
+    x: 2.35 
+    y: 1.1
+    angle: -1.57079632679
+    payload_id: 753
+    is_interjacent: false
+  - id: 754
+    x: 2.75 
+    y: 1.1
+    angle: -1.57079632679
+    payload_id: 754
+    is_interjacent: false
+  - id: 755
+    x: 3.4
+    y: 1.1
+    angle: -1.57079632679
+    payload_id: 755
+    is_interjacent: false
+
+#3rd row
+  - id: 756
+    x: 0.25
+    y: 2
+    angle: -1.57079632679
+    payload_id: 756
+    is_interjacent: false
+  - id: 757
+    x: 0.65
+    y: 2
+    angle: -1.57079632679
+    payload_id: 757
+    is_interjacent: false
+  - id: 758
+    x: 1.3
+    y: 2
+    angle: -1.57079632679
+    payload_id: 758
+    is_interjacent: false
+  - id: 759
+    x: 1.95 
+    y: 2
+    angle: -1.57079632679
+    payload_id: 759
+    is_interjacent: false
+  - id: 760
+    x: 2.35 
+    y: 2
+    angle: -1.57079632679
+    payload_id: 760
+    is_interjacent: false
+  - id: 761
+    x: 2.75 
+    y: 2
+    angle: -1.57079632679
+    payload_id: 761
+    is_interjacent: false
+  - id: 762
+    x: 3.4
+    y: 2
+    angle: -1.57079632679
+    payload_id: 762
+    is_interjacent: false
+
+#4th row
+  - id: 763
+    x: 0.25
+    y: 3.02
+    angle: -1.57079632679
+    payload_id: 763
+    is_interjacent: false
+  - id: 764
+    x: 0.65
+    y: 3.02
+    angle: -1.57079632679
+    payload_id: 764
+    is_interjacent: false
+  - id: 765
+    x: 1.3
+    y: 3.02
+    angle: -1.57079632679
+    payload_id: 765
+    is_interjacent: false
+  - id: 766
+    x: 1.95 
+    y: 3.02
+    angle: -1.57079632679
+    payload_id: 766
+    is_interjacent: false
+  - id: 767
+    x: 2.35 
+    y: 3.02
+    angle: -1.57079632679
+    payload_id: 767
+    is_interjacent: false
+  - id: 768
+    x: 2.75 
+    y: 3.02
+    angle: -1.57079632679
+    payload_id: 768
+    is_interjacent: false
+  - id: 769
+    x: 3.4
+    y: 3.02
+    angle: -1.57079632679
+    payload_id: 769
+    is_interjacent: false
+
+#5th row
+  - id: 770
+    x: 0.25
+    y: 3.92
+    angle: -1.57079632679
+    payload_id: 770
+    is_interjacent: false
+  - id: 771
+    x: 0.65
+    y: 3.92
+    angle: -1.57079632679
+    payload_id: 771
+    is_interjacent: false
+  - id: 772
+    x: 1.3
+    y: 3.92
+    angle: -1.57079632679
+    payload_id: 772
+    is_interjacent: false
+  - id: 773
+    x: 1.95 
+    y: 3.92
+    angle: -1.57079632679
+    payload_id: 773
+    is_interjacent: false
+  - id: 774
+    x: 2.35 
+    y: 3.92
+    angle: -1.57079632679
+    payload_id: 774
+    is_interjacent: false
+  - id: 775
+    x: 2.75 
+    y: 3.92
+    angle: -1.57079632679
+    payload_id: 775
+    is_interjacent: false
+  - id: 776
+    x: 3.4
+    y: 3.92
+    angle: -1.57079632679
+    payload_id: 776
+    is_interjacent: false
+
+#6th row - road
+  - id: 777
+    x: 0.25
+    y: 4.82
+    angle: -1.57079632679
+    payload_id: 777
+    is_interjacent: false
+  - id: 778
+    x: 0.65
+    y: 4.82
+    angle: -1.57079632679
+    payload_id: 778
+    is_interjacent: false
+  - id: 779
+    x: 1.3
+    y: 4.82
+    angle: -1.57079632679
+    payload_id: 779
+    is_interjacent: false
+  - id: 780
+    x: 2.35
+    y: 4.82
+    angle: -1.57079632679
+    payload_id: 780
+    is_interjacent: false
+  - id: 781
+    x: 3.4
+    y: 4.82
+    angle: -1.57079632679
+    payload_id: 781
+    is_interjacent: false
+
+#7th row
+  - id: 782
+    x: 0.25
+    y: 5.84
+    angle: -1.57079632679
+    payload_id: 782
+    is_interjacent: false
+  - id: 783
+    x: 0.65
+    y: 5.84
+    angle: -1.57079632679
+    payload_id: 783
+    is_interjacent: false
+  - id: 784
+    x: 1.3
+    y: 5.84
+    angle: -1.57079632679
+    payload_id: 784
+    is_interjacent: false
+  - id: 785
+    x: 1.95 
+    y: 5.84
+    angle: -1.57079632679
+    payload_id: 785
+    is_interjacent: false
+  - id: 786
+    x: 2.35 
+    y: 5.84
+    angle: -1.57079632679
+    payload_id: 786
+    is_interjacent: false
+  - id: 787
+    x: 2.75 
+    y: 5.84
+    angle: -1.57079632679
+    payload_id: 787
+    is_interjacent: false
+  - id: 788
+    x: 3.4
+    y: 5.84
+    angle: -1.57079632679
+    payload_id: 788
+    is_interjacent: false
+
+#8th row
+  - id: 789
+    x: 0.25
+    y: 6.74
+    angle: -1.57079632679
+    payload_id: 789
+    is_interjacent: false
+  - id: 790
+    x: 0.65
+    y: 6.74
+    angle: -1.57079632679
+    payload_id: 790
+    is_interjacent: false
+  - id: 791
+    x: 1.3
+    y: 6.74
+    angle: -1.57079632679
+    payload_id: 791
+    is_interjacent: false
+  - id: 792
+    x: 1.95 
+    y: 6.74
+    angle: -1.57079632679
+    payload_id: 792
+    is_interjacent: false
+  - id: 793
+    x: 2.35 
+    y: 6.74
+    angle: -1.57079632679
+    payload_id: 793
+    is_interjacent: false
+  - id: 794
+    x: 2.75 
+    y: 6.74
+    angle: -1.57079632679
+    payload_id: 794
+    is_interjacent: false
+  - id: 795
+    x: 3.4
+    y: 6.74
+    angle: -1.57079632679
+    payload_id: 795
+    is_interjacent: false
+
+#9th row
+  - id: 796
+    x: 0.25
+    y: 7.64
+    angle: -1.57079632679
+    payload_id: 796
+    is_interjacent: false
+  - id: 797
+    x: 0.65
+    y: 7.64
+    angle: -1.57079632679
+    payload_id: 797
+    is_interjacent: false
+  - id: 798
+    x: 1.3
+    y: 7.64
+    angle: -1.57079632679
+    payload_id: 798
+    is_interjacent: false
+  - id: 799
+    x: 1.95 
+    y: 7.64
+    angle: -1.57079632679
+    payload_id: 799
+    is_interjacent: false
+  - id: 800
+    x: 2.35 
+    y: 7.64
+    angle: -1.57079632679
+    payload_id: 800
+    is_interjacent: false
+  - id: 801
+    x: 2.75 
+    y: 7.64
+    angle: -1.57079632679
+    payload_id: 801
+    is_interjacent: false
+  - id: 802
+    x: 3.4
+    y: 7.64
+    angle: -1.57079632679
+    payload_id: 802
+    is_interjacent: false
+
+#10th row - road
+  - id: 803
+    x: 1.3
+    y: 9
+    angle: -1.57079632679
+    payload_id: 803
+    is_interjacent: false
+  - id: 804
+    x: 2.35 
+    y: 9
+    angle: -1.57079632679
+    payload_id: 804
+    is_interjacent: false
+  - id: 805
+    x: 3.4 
+    y: 9
+    angle: -1.57079632679
+    payload_id: 805
+    is_interjacent: false
+
+#11th row - road
+  - id: 806
+    x: 1.3
+    y: 9.65
+    angle: -1.57079632679
+    payload_id: 806
+    is_interjacent: false
+  - id: 807
+    x: 2.35 
+    y: 9.65
+    angle: -1.57079632679
+    payload_id: 807
+    is_interjacent: false
+  - id: 808
+    x: 3.4 
+    y: 9.65
+    angle: -1.57079632679
+    payload_id: 808
+    is_interjacent: false
+ 
+#12th row - road
+  - id: 809
+    x: 1.3
+    y: 10.3
+    angle: -1.57079632679
+    payload_id: 809
+    is_interjacent: false
+  - id: 810
+    x: 2.35 
+    y: 10.3
+    angle: -1.57079632679
+    payload_id: 810
+    is_interjacent: false
+  - id: 811
+    x: 3.4 
+    y: 10.3
+    angle: -1.57079632679
+    payload_id: 811
+    is_interjacent: false
+
+#charging
+  - id: 812
+    x: 3.9
+    y: 7.64
+    angle: -1.57079632679
+    payload_id: 812
+    is_interjacent: false
+  - id: 813
+    x: 4.4 
+    y: 7.64
+    angle: -1.57079632679
+    payload_id: 813
+    is_interjacent: false
+  - id: 814
+    x: 4.4 
+    y: 7.14
+    angle: -1.57079632679
+    payload_id: 814
+    is_interjacent: false
+
+#entry point
+  - id: 815
+    x: 4.4
+    y: 9
+    angle: -1.57079632679
+    payload_id: 815
+    is_interjacent: false
+  - id: 816
+    x: 4.4 
+    y: 10.3
+    angle: -1.57079632679
+    payload_id: 816
+    is_interjacent: false
+  - id: 817
+    x: 4.4 
+    y: 11.3
+    angle: -1.57079632679
+    payload_id: 817
+    is_interjacent: false
+
+
+move_graphs:
+  - type: 1
+    edges:
+
+# 1st row road
+      - from: 744
+        to: 746
+      - from: 746
+        to: 744
+      - from: 746
+        to: 747
+      - from: 747
+        to: 746
+      - from: 747
+        to: 748
+      - from: 748
+        to: 747
+
+# 2nd row
+      - from: 749
+        to: 751
+      - from: 751
+        to: 749
+      - from: 751
+        to: 753
+      - from: 753
+        to: 751
+      - from: 753
+        to: 755
+      - from: 755
+        to: 753
+
+# 3rd row
+      - from: 756
+        to: 758
+      - from: 758
+        to: 756
+      - from: 758
+        to: 760
+      - from: 760
+        to: 758
+      - from: 760
+        to: 762
+      - from: 762
+        to: 760
+
+# 4th row
+      - from: 763
+        to: 765
+      - from: 765
+        to: 763
+      - from: 765
+        to: 767
+      - from: 767
+        to: 765
+      - from: 767
+        to: 769
+      - from: 769
+        to: 767
+
+# 5th row
+      - from: 770
+        to: 772
+      - from: 772
+        to: 770
+      - from: 772
+        to: 774
+      - from: 774
+        to: 772
+      - from: 774
+        to: 776
+      - from: 776
+        to: 774
+
+# 6th row road
+      - from: 777
+        to: 779
+      - from: 779
+        to: 777
+      - from: 779
+        to: 780
+      - from: 780
+        to: 779
+      - from: 780
+        to: 781
+      - from: 781
+        to: 780
+
+# 7th row
+      - from: 782
+        to: 784
+      - from: 784
+        to: 782
+      - from: 784
+        to: 786
+      - from: 786
+        to: 784
+      - from: 786
+        to: 788
+      - from: 788
+        to: 786
+
+# 8th row
+      - from: 789
+        to: 791
+      - from: 791
+        to: 789
+      - from: 791
+        to: 793
+      - from: 793
+        to: 791
+      - from: 793
+        to: 795
+      - from: 795
+        to: 793
+
+# 9th row
+      - from: 796
+        to: 798
+      - from: 798
+        to: 796
+      - from: 798
+        to: 800
+      - from: 800
+        to: 798
+      - from: 800
+        to: 802
+      - from: 802
+        to: 800
+
+# 10th row road
+      - from: 803
+        to: 804
+      - from: 804
+        to: 805
+
+#11th row road
+      - from: 809
+        to: 810
+      - from: 810
+        to: 811
+
+#1st column road
+      - from: 746
+        to: 751
+      - from: 751
+        to: 758
+      - from: 758
+        to: 765
+      - from: 765
+        to: 772
+      - from: 772
+        to: 779
+      - from: 779
+        to: 784
+      - from: 784
+        to: 791
+      - from: 791
+        to: 798
+      - from: 798
+        to: 803
+      - from: 803
+        to: 809
+      - from: 804
+        to: 810
+
+#2nd column road
+      - from: 811
+        to: 805
+      - from: 805
+        to: 802
+      - from: 802
+        to: 795
+      - from: 795
+        to: 788
+      - from: 788
+        to: 781
+      - from: 781
+        to: 776
+      - from: 776
+        to: 769
+      - from: 769
+        to: 762
+      - from: 762
+        to: 755
+      - from: 755
+        to: 748
+
+      
+#charging
+      - from: 802
+        to: 812
+      - from: 812
+        to: 802
+      - from: 812
+        to: 813
+      - from: 813
+        to: 812
+
+#entry point
+      - from: 805
+        to: 815
+      - from: 815
+        to: 805
+      - from: 815
+        to: 816
+      - from: 816
+        to: 815
+      - from: 816
+        to: 817
+      - from: 817
+        to: 816
+
+
+    backward_move_edges:
+      - from: 746
+        to: 744
+      - from: 751
+        to: 749
+      - from: 755
+        to: 753
+      - from: 765
+        to: 763
+      - from: 769
+        to: 767
+      - from: 772
+        to: 770
+      - from: 776
+        to: 774
+      - from: 779
+        to: 777
+      - from: 784
+        to: 782
+      - from: 788
+        to: 786
+      - from: 791
+        to: 789
+      - from: 795
+        to: 793
+      - from: 798
+        to: 796
+      - from: 802
+        to: 800
+
+
+    wait_points: []
+    blocked_rotations: []
+    #blocked_rotations: [744,745,747,749,750,752,753,754,756,757,759,760,761,763,764,766,767,768,770,771,773,774,775,777,778,780,782,783,785,786,787,789,790,792,793,794,796,797,799,800,801,804,806,807,808,809,810,811,812,814]
+
+targets:
+  - tag_id: 796
+    dir: 2
+    type: 5
+    id: storage_971
+  - tag_id: 789
+    dir: 2
+    type: 5
+    id: storage_972
+  - tag_id: 782
+    dir: 2
+    type: 5
+    id: storage_973
+  - tag_id: 777
+    dir: 2
+    type: 5
+    id: storage_974
+  - tag_id: 770
+    dir: 2
+    type: 5
+    id: storage_975
+  - tag_id: 763
+    dir: 2
+    type: 5
+    id: storage_976
+  - tag_id: 800
+    dir: 2
+    type: 5
+    id: storage_981
+  - tag_id: 793
+    dir: 2
+    type: 5
+    id: storage_982
+  - tag_id: 786
+    dir: 2
+    type: 5
+    id: storage_983
+  - tag_id: 774
+    dir: 2
+    type: 5
+    id: storage_984
+  - tag_id: 767
+    dir: 2
+    type: 5
+    id: storage_985
+  - tag_id: 760
+    dir: 2
+    type: 5
+    id: storage_986
+
+  - tag_id: 811
+    dir: 1
+    type: 2
+    id: interaction_1
+
+  - tag_id: 813
+    dir: 3
+    type: 3
+    id: charging_1
+
+  - tag_id: 817
+    dir: 1
+    type: 4
+    id: entry_1
+
+charging_stations:
+  - id: charging_1
+    position:
+      x: 4.4 
+      y: 7.14
+    backup_point:
+      x: 4.4 
+      y: 7.64
+
+ 
+
+ 

@@ -1,0 +1,13 @@
+C:/Users/Dell/Desktop/DEVELOPMENT/rms-map-editor/build/windows/CMakeFiles/INSTALL.dir
+C:/Users/Dell/Desktop/DEVELOPMENT/rms-map-editor/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/Dell/Desktop/DEVELOPMENT/rms-map-editor/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Dell/Desktop/DEVELOPMENT/rms-map-editor/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/Dell/Desktop/DEVELOPMENT/rms-map-editor/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/Dell/Desktop/DEVELOPMENT/rms-map-editor/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/Dell/Desktop/DEVELOPMENT/rms-map-editor/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/Dell/Desktop/DEVELOPMENT/rms-map-editor/build/windows/runner/CMakeFiles/rms.dir
+C:/Users/Dell/Desktop/DEVELOPMENT/rms-map-editor/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/Dell/Desktop/DEVELOPMENT/rms-map-editor/build/windows/runner/CMakeFiles/ALL_BUILD.dir
+C:/Users/Dell/Desktop/DEVELOPMENT/rms-map-editor/build/windows/plugins/file_saver/CMakeFiles/file_saver_plugin.dir
+C:/Users/Dell/Desktop/DEVELOPMENT/rms-map-editor/build/windows/plugins/file_saver/CMakeFiles/INSTALL.dir
+C:/Users/Dell/Desktop/DEVELOPMENT/rms-map-editor/build/windows/plugins/file_saver/CMakeFiles/ALL_BUILD.dir
