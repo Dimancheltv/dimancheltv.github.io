@@ -44398,7 +44398,7 @@ A.R9.prototype={
 I(a){var s=null,r=t.w,q=A.be(a,s,r).w.a.b*0.06
 return new A.cj(new A.ax(0,q,0,q),A.hW(A.b([A.aon("assets/images/app_logo.png",A.be(a,s,r).w.a.b*0.2,s),A.df(s,30,s),new A.nK("You can log in with your information.",A.a2(a).p3.w,s)],t.p),B.al,B.bQ,B.aA),s)}}
 A.Q0.prototype={
-I(a){return A.auv(this.c,"example@gmail.com",!1,B.xw,new A.afn(this),"Email",new A.afo())}}
+I(a){return A.auv(this.c,"Login",!1,B.xw,new A.afn(this),"Login",new A.afo())}}
 A.afn.prototype={
 $1(a){this.a.c.scg(0,a)},
 $S:113}
