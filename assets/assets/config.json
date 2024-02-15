@@ -1,0 +1,6 @@
+{
+  "baseApiUrl": "https://rms-dev-dpd.deusrobotics.com/",
+  "cagesId": ["102", "34", "102"],
+  "targets": ["UNLOADING_U21", "UNLOADING_U22"],
+  "destinationGroupId": "loading"
+}
