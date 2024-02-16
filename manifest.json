@@ -1,6 +1,6 @@
 {
-    "name": "auth_with_bloc",
-    "short_name": "auth_with_bloc",
+    "name": "Deus App",
+    "short_name": "Deus App",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

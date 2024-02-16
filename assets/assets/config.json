@@ -1,5 +1,5 @@
 {
-  "baseApiUrl": "https://rms-dev-dpd.deusrobotics.com/",
+  "baseApiUrl": "http://172.16.88.50/",
   "cagesId": [
     "201",
     "202",
