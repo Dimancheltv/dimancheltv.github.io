@@ -1,5 +1,5 @@
 {
-  "baseApiUrl": "http://172.16.88.50/",
+  "baseApiUrl": "https://172.16.88.50/",
   "cagesId": [
     "201",
     "202",
