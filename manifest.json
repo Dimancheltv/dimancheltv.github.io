@@ -1,11 +1,11 @@
 {
-    "name": "mobile_scanner_example",
-    "short_name": "mobile_scanner_example",
+    "name": "Deus App",
+    "short_name": "Deus App",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Demonstrates how to use the mobile_scanner plugin.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
